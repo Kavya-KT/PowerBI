@@ -24,4 +24,5 @@ This project explores Spotify's music dataset from 1930 to 2023. It involves dat
 
 ## **Dashboard**
 
-![image](https://github.com/user-attachments/assets/61fe9954-d966-4df0-9c82-f092794e8fd6)
+![image](https://github.com/user-attachments/assets/8c08f1fe-5872-4148-bc3c-0be150d32c18)
+
