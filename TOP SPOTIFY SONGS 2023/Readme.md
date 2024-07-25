@@ -20,7 +20,7 @@ This project explores Spotify's music dataset from 1930 to 2023. It involves dat
 ## **Tools and Technologies**
 - **Power BI**
 - **Power Query**
-- - **PowerPoint**
+- **PowerPoint**
 
 ## **Dashboard**
 
