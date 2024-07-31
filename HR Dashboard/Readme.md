@@ -24,6 +24,5 @@ This project involves creating an interactive HR Dashboard using Power BI.
 - **PowerPoint**
 
 ## **Dashboard** 
-![image](
 ![Screenshot 2024-07-31 153746](https://github.com/user-attachments/assets/aadf6040-d98e-4ba0-863d-dece86962bbb)
-)
+
